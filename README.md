@@ -4,8 +4,6 @@
 This project addresses the challenge of long and unpredictable wait times in hospital emergency departments (ED).
 We used a simulated dataset (5,000 records) of ED visits and applied AutoML (MLJAR) alongside baseline ML models (Linear Regression, Random Forest, XGBoost).
 
-Our goal: Predict total patient wait time (minutes) using arrival, triage, and staffing features.
-
 # Group Members
 
 Akash Deep Singh (200593016)
